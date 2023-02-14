@@ -39,6 +39,8 @@ namespace Conversor_Temperatura
 
         private void btnConvert_Click(object sender, EventArgs e)
         {
+        //Rodrigo Vieira dos Santos RA 216264
+        //Victor de Jesus Mota Silva RA 121824
             if(this.combocf.SelectedIndex == 0)
             {
                 float Celsius = 0;
